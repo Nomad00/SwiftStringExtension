@@ -2,7 +2,7 @@
 
 import UIKit
 
-public extension String
+public extension NSString
 {
     /**
     A convenience extension which determines if there is anything besides whitespace & newline characters within a String.
